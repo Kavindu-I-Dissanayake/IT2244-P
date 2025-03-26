@@ -16,3 +16,6 @@
 - The date format may vary based on system regional settings.
   - The default format used in this script assumes `MM/DD/YYYY` (adjust substring positions if needed).
 - The script relies on basic string manipulation and conditional checks.
+
+![image](https://github.com/user-attachments/assets/42cd82ad-0d8e-425a-b882-c2bad2a8a6b1)
+
